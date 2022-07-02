@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\USER\source\repos\MinosDirectXEngine\x64\Debug\MinosDirectXEngine.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\USER\source\repos\MinosDirectXEngine\x64\Debug\color.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\USER\source\repos\MinosDirectXEngine\x64\Debug\texture.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

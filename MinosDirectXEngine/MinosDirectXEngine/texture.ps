@@ -1,0 +1,17 @@
+Texture2D shaderTexture;
+SamplerState SampleType;
+
+struct PixelInputType
+{
+	float4 position : SV_POSITION;
+	float2 tex : TEXCOORD0;
+};
+
+float4 TexturePixelShader(PixelInputTye input) : SV_TARGET
+{
+	float4 textireColor;
+
+	textireColor = shaderTexture.Sample(SampleTye, input.tex);
+
+	return textureColor;
+}

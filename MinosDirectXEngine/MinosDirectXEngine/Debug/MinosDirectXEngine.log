@@ -1,0 +1,39 @@
+﻿  CameraComponent.cpp
+  ColorShaderComponent.cpp
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(22,93): error C2664: 'bool ColorShaderClass::InitializeShader(ID3D11Device *,HWND,WCHAR *,WCHAR *)': 인수 3을(를) 'const wchar_t [24]'에서 'WCHAR *'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(22,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.h(23,7): message : 'ColorShaderClass::InitializeShader' 선언을 참조하십시오.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(58,62): error C2664: 'int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)': 인수 2을(를) 'WCHAR *'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(58,21): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9153,1): message : 'MessageBoxA' 선언을 참조하십시오.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(76,62): error C2664: 'int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)': 인수 2을(를) 'WCHAR *'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(76,21): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9153,1): message : 'MessageBoxA' 선언을 참조하십시오.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(185,68): error C2664: 'int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)': 인수 2을(를) 'const wchar_t [24]'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\ColorShaderComponent.cpp(185,19): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9153,1): message : 'MessageBoxA' 선언을 참조하십시오.
+  D3DComponent.cpp
+  GraphicsComponent.cpp
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\GraphicsComponent.cpp(36,70): error C2664: 'int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)': 인수 2을(를) 'const wchar_t [31]'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\GraphicsComponent.cpp(36,20): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9153,1): message : 'MessageBoxA' 선언을 참조하십시오.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\GraphicsComponent.cpp(60,78): error C2664: 'int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)': 인수 2을(를) 'const wchar_t [39]'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\GraphicsComponent.cpp(60,20): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9153,1): message : 'MessageBoxA' 선언을 참조하십시오.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\GraphicsComponent.cpp(74,85): error C2664: 'int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)': 인수 2을(를) 'const wchar_t [46]'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\GraphicsComponent.cpp(74,20): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9153,1): message : 'MessageBoxA' 선언을 참조하십시오.
+  InputComponent.cpp
+  main.cpp
+  ModelComponent.cpp
+  stdafx.cpp
+  SystemComponent.cpp
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\SystemComponent.cpp(158,38): error C2440: '=': 'LPCWSTR'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\SystemComponent.cpp(158,21): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\SystemComponent.cpp(198,11): error C2664: 'HWND CreateWindowExA(DWORD,LPCSTR,LPCSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'LPCWSTR'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\SystemComponent.cpp(198,43): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4416,1): message : 'CreateWindowExA' 선언을 참조하십시오.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\SystemComponent.cpp(221,48): error C2664: 'BOOL UnregisterClassA(LPCSTR,HINSTANCE)': 인수 1을(를) 'LPCWSTR'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+C:\Users\USER\source\repos\MinosDirectXEngine\MinosDirectXEngine\SystemComponent.cpp(221,18): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4300,1): message : 'UnregisterClassA' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...

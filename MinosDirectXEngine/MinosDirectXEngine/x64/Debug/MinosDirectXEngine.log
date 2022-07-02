@@ -1,0 +1,14 @@
+﻿  compilation object save succeeded; see C:\Users\USER\source\repos\MinosDirectXEngine\x64\Debug\color.cso
+  compilation object save succeeded; see C:\Users\USER\source\repos\MinosDirectXEngine\x64\Debug\color.cso
+  compilation object save succeeded; see C:\Users\USER\source\repos\MinosDirectXEngine\x64\Debug\texture.cso
+  CameraComponent.cpp
+  ColorShaderComponent.cpp
+  D3DComponent.cpp
+  GraphicsComponent.cpp
+  InputComponent.cpp
+  main.cpp
+  ModelComponent.cpp
+  stdafx.cpp
+  SystemComponent.cpp
+  코드를 생성하고 있습니다...
+  MinosDirectXEngine.vcxproj -> C:\Users\USER\source\repos\MinosDirectXEngine\x64\Debug\MinosDirectXEngine.exe
